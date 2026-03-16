@@ -1,0 +1,5 @@
+{
+  "name": "SmartNews AI",
+  "description": "A modern AI-powered news application that summarizes and categorizes trending topics using Gemini.",
+  "requestFramePermissions": []
+}
